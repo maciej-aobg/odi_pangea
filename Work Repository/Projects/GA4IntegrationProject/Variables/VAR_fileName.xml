@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.11" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="tFUEoWbXo8wy8dcWIk7xdQ==" exportKeySalt="d68babb6-7b4e-419d-8c28-dbc989840fa2" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="JjOgCsPbl4u/4+pSCCuj6g==" exportKeySalt="a9f2c843-863e-4577-b308-ce52b6898bf4" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpVar">
 		<Field name="DefDate" type="java.sql.Timestamp">null</Field>
 	<Field name="DefN" type="com.sunopsis.sql.DbInt">null</Field>
@@ -12,13 +12,13 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[994cae45-81da-4646-8d98-90bb9a695be9]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndStore" type="java.lang.String"><![CDATA[L]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="ITxtVar" type="com.sunopsis.sql.DbInt"><![CDATA[1141]]></Field>
 	<Field name="ITxtVarIn" type="com.sunopsis.sql.DbInt"><![CDATA[1155]]></Field>
 	<Field name="ITxtVarValTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IVar" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2024-04-23 07:05:22.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2024-04-23 12:24:07.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LschemaName" type="java.lang.String"><![CDATA[FILE_GENERIC_DATAPIPELINE_REPO]]></Field>
 	<Field name="VarDatatype" type="java.lang.String"><![CDATA[T]]></Field>
@@ -52,7 +52,7 @@
 	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[128]]></Field>
 	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
  <Field name="Txt" type="java.lang.String"><![CDATA[Select * from PARQUET_FILENAME
-/*$$SNPS_START_KEYSNP$CRDWG_TABLESNP$CRTABLE_NAME=PARQUET_FILENAMESNP$CRLOAD_FILE=/home/oracle/Repos/datapipeline-repo/parquet_filename.txtSNP$CRFILE_FORMAT=DSNP$CRFILE_SEP_FIELD=0x0009SNP$CRFILE_SEP_LINE=0x000D0x000ASNP$CRFILE_FIRST_ROW=SNP$CRFILE_ENC_FIELD=SNP$CRFILE_DEC_SEP=SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=filenameSNP$CRTYPE_NAME=STRINGSNP$CRORDER=1SNP$CRLENGTH=50SNP$CRPRECISION=50SNP$CRREC_CODE_LIST=$INC$SNP$CRACTION_ON_ERROR=0SNP$CR$$SNPS_END_KEY*/
+/*$$SNPS_START_KEYSNP$CRDWG_TABLESNP$CRTABLE_NAME=PARQUET_FILENAMESNP$CRLOAD_FILE=/home/oracle/Repos/datapipeline-repo/GA4_Integration/parquet_filename.txtSNP$CRFILE_FORMAT=DSNP$CRFILE_SEP_FIELD=0x0009SNP$CRFILE_SEP_LINE=0x000D0x000ASNP$CRFILE_FIRST_ROW=SNP$CRFILE_ENC_FIELD=SNP$CRFILE_DEC_SEP=SNP$CRSNP$CRDWG_COLSNP$CRCOL_NAME=filenameSNP$CRTYPE_NAME=STRINGSNP$CRORDER=1SNP$CRLENGTH=50SNP$CRPRECISION=50SNP$CRREC_CODE_LIST=$INC$SNP$CRACTION_ON_ERROR=0SNP$CR$$SNPS_END_KEY*/
 ]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
