@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/Markers/GRP_STATE_Priorities.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/First_Folder/Packages/PACK_testPackage.xml"/>
+      <param value="/Work Repository/Models/SRC_FILES/MFOL_SRC_FILES.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/PROJ_GA4IntegrationProject.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/Variables/VAR_fileName.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/First_Folder/FOLD_First_Folder.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/First_Folder/Mappings/MAP_New_Mapping.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/Markers/GRP_STATE_Progress.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Production.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/Variables/VAR_errorLog.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/Markers/GRP_STATE_Smileys.xml"/>
+      <param value="/Master Repository/Technologies/File/Physical Architecture/FILE_GENERIC/PSC_FILE_GENERIC_homeoracleReposdatapipeline_repoGA4_Integration.xml"/>
+      <param value="/Work Repository/Models/SRC_FILES/GA4_INTEGRATION_ERROR_FILE/Global/SMOD_Global.xml"/>
+      <param value="/Master Repository/Technologies/File/Physical Architecture/FILE_GENERIC/CONN_FILE_GENERIC.xml"/>
+      <param value="/Master Repository/Languages/LANG_PIGLATIN.xml"/>
+      <param value="/Master Repository/Technologies/File/Logical Architecture/LSC_FILE_GENERIC_DATAPIPELINE_REPO.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_etl_team_logical_schema.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Test.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL_FILE.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Development.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/First_Folder/Packages/Scenarios/SCEN_TESTPACKAGE_Version_001.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/First_Folder/Packages/PACK_GA4ImportDataPackage.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/ETL_TEAM_SCHEMA/PSC_ETL_TEAM_SCHEMA_ETL_TEAM.xml"/>
+      <param value="/Work Repository/Models/SRC_FILES/GA4_INTEGRATION_ERROR_FILE/Global/TAB_ERROR.xml"/>
+      <param value="/Work Repository/Models/SRC_FILES/GA4_INTEGRATION_ERROR_FILE/MOD_GA4_INTEGRATION_ERROR_FILE.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/TECH_Oracle.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/ETL_TEAM_SCHEMA/CONN_ETL_TEAM_SCHEMA.xml"/>
+      <param value="/Master Repository/Technologies/File/TECH_File.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/First_Folder/Procedures/TRT_CreateExternalTable.xml"/>
+      <param value="/Work Repository/Projects/GA4IntegrationProject/First_Folder/Procedures/TRT_WriteErrorLog.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
