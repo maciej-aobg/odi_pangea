@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.11" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="27pmjRpPFeTfNpzvR/501w==" exportKeySalt="5eb9ed04-a8b7-4d5a-a37f-67817f32cc23" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="fWiKCyRHRbw/POLBKInW7g==" exportKeySalt="f536870c-9f71-4fba-9dfa-8a8f2b1d4b80" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpTechno">
 		<Field name="CatalogTerm" type="java.lang.String">null</Field>
 	<Field name="ColAliasWord" type="java.lang.String">null</Field>
@@ -73,7 +73,7 @@
 	<Field name="JoinOuterLoc" type="java.lang.String">null</Field>
 	<Field name="JoinOuterSide" type="java.lang.String">null</Field>
 	<Field name="JoinRightOut" type="java.lang.String">null</Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2024-04-22 10:48:18.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2024-04-23 12:17:41.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUNOPSIS_INSTALL]]></Field>
 	<Field name="LocObjPattern" type="java.lang.String"><![CDATA[%SCHEMA/%OBJECT]]></Field>
 	<Field name="LocSeqCurrPattern" type="java.lang.String">null</Field>
@@ -17258,6 +17258,14 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[7cf66dba-3493-3ab1-81cc-6c13ebe03a8d]]></Field>
 	<Field name="Version" type="java.lang.String"><![CDATA[5163b9fca9e0b185dc419c8e5a79a457741cf2fd]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Physical Architecture/FILE_GENERIC/CONN_FILE_GENERIC.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpLschema]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[FILE_GENERIC_DATAPIPELINE_REPO]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[ce441ff5-490d-46c1-8c71-a8ccbd7d23ef]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[308ff67130eb509c5cd42f780dbb28485b227902]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Logical Architecture/LSC_FILE_GENERIC_DATAPIPELINE_REPO.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
 		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TECHNO.34]]></Field>
