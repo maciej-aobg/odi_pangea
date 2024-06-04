@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.11" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="oo9HuTpEsDnjN9gvpR5A2w==" exportKeySalt="02f896aa-c6eb-49f1-a5aa-3b6e39dcf58e" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="VKdxlDTpt2UHpajLFJLxfw==" exportKeySalt="71156dde-e5db-4ce7-857e-d730ee7fc78c" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpConnect">
 		<Field name="AuthenMethod" type="java.lang.String">null</Field>
 	<Field name="BatchUpdateSize" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
@@ -70,10 +70,10 @@
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
 		<Field name="Type" type="java.lang.String"><![CDATA[SnpPschema]]></Field>
 	<Field name="SubType" type="java.lang.String">null</Field>
-	<Field name="Name" type="java.lang.String"><![CDATA[FILE_GENERIC./home/oracle/Repos/datapipeline-repo]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[FILE_GENERIC./home/oracle/Repos/datapipeline-repo/GA4_Integration]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[511e53a3-13d9-4469-a961-254faa22bf62]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[d185ecda201ade494eddd288d43fbcedeeb4e0a2]]></Field>
-	<Field name="Path" type="java.lang.String"><![CDATA[PSC_FILE_GENERIC_homeoracleReposdatapipeline_repo.xml]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[de904526b221e1861060df31624fdea199ce9074]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[PSC_FILE_GENERIC_homeoracleReposdatapipeline_repoGA4_Integration.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
 		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TECHNO.34]]></Field>
