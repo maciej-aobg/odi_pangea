@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.11" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="zXrzNQTkHAZDb3/O4slIvg==" exportKeySalt="b8db72dd-7d59-49f4-a9cf-2b88d55bae04" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="A8F5tbKsW4MZnjCmKrHbWQ==" exportKeySalt="5be76a58-59bc-4b18-a470-a6cfca2678ce" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpPschema">
 		<Field name="AdditionalOption" type="java.lang.String">null</Field>
 	<Field name="BicsTargetType" type="java.lang.String">null</Field>
@@ -13,7 +13,7 @@
 	<Field name="DefFilePath" type="java.lang.String">null</Field>
 	<Field name="DiscardFilePath" type="java.lang.String">null</Field>
 	<Field name="ErrPrfTab" type="java.lang.String"><![CDATA[E_]]></Field>
-	<Field name="ExtName" type="java.lang.String"><![CDATA[FILE_GENERIC./home/oracle/Repos/datapipeline-repo]]></Field>
+	<Field name="ExtName" type="java.lang.String"><![CDATA[FILE_GENERIC./home/oracle/Repos/datapipeline-repo/GA4_Integration]]></Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2024-04-22 10:46:14.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
@@ -21,14 +21,14 @@
 	<Field name="IdxPrfTab" type="java.lang.String"><![CDATA[IX_]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntPrfTab" type="java.lang.String"><![CDATA[I_]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
 	<Field name="IConnect" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
 	<Field name="IPschema" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
 	<Field name="ITargetPschema" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="JrnPrfTab" type="java.lang.String"><![CDATA[J]]></Field>
 	<Field name="JrnPrfTrg" type="java.lang.String"><![CDATA[T]]></Field>
 	<Field name="JrnPrfVie" type="java.lang.String"><![CDATA[JV]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2024-04-22 10:46:16.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2024-04-23 12:17:41.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LocObjPattern" type="java.lang.String"><![CDATA[%SCHEMA/%OBJECT]]></Field>
 	<Field name="LocSeqCurrPattern" type="java.lang.String">null</Field>
@@ -45,13 +45,13 @@
 	<Field name="ReportDetail" type="java.lang.String">null</Field>
 	<Field name="ReportFetch" type="java.lang.String">null</Field>
 	<Field name="RmttrailFilePath" type="java.lang.String">null</Field>
-	<Field name="SchemaName" type="java.lang.String"><![CDATA[/home/oracle/Repos/datapipeline-repo]]></Field>
+	<Field name="SchemaName" type="java.lang.String"><![CDATA[/home/oracle/Repos/datapipeline-repo/GA4_Integration]]></Field>
 	<Field name="SubPartPattern" type="java.lang.String">null</Field>
 	<Field name="TargetDups" type="java.lang.String">null</Field>
 	<Field name="TrailFileSize" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="UnqCharSpec" type="java.lang.String"><![CDATA[BASE64]]></Field>
 	<Field name="WcatalogName" type="java.lang.String">null</Field>
-	<Field name="WschemaName" type="java.lang.String"><![CDATA[/home/oracle/Repos/datapipeline-repo]]></Field>
+	<Field name="WschemaName" type="java.lang.String"><![CDATA[/home/oracle/Repos/datapipeline-repo/GA4_Integration]]></Field>
 	<Field name="WsdlBinding" type="java.lang.String">null</Field>
 	<Field name="WsdlPortAddress" type="java.lang.String">null</Field>
 	<Field name="WsdlPortName" type="java.lang.String">null</Field>
