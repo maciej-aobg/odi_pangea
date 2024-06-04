@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.11" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="P2UpVrf0bIenFFXcBD9dbQ==" exportKeySalt="36183dc9-2a2c-4ff2-90de-06554ceb8de8" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="wUrZbYVvp2gtuLzoRJZEbg==" exportKeySalt="6fcbeb03-fe47-480b-9173-28cbfb422b3e" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpFolder">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2024-04-17 13:32:12.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="FolderName" type="java.lang.String"><![CDATA[First Folder]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[d6a6c748-a96a-4e58-a6e1-63620f0027fe]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndChange" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
@@ -32,7 +32,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[testPackage]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[cd5634da-b42c-4750-a5c6-44ad0cb7a748]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[ad09157a46ab4c6df2aac1f0ea4d55a297cfb568]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[8944f451764da1110a57686257fd40d8c11a713a]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Packages/PACK_testPackage.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
@@ -40,7 +40,7 @@
 	<Field name="SubType" type="java.lang.String"><![CDATA[N]]></Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[New_Mapping]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[869ec85f-0536-4dd4-93de-9fb8eabe6990]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[ad09157a46ab4c6df2aac1f0ea4d55a297cfb568]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[94cbb9436469915d9d4c6b24e123d81ba01f49b3]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Mappings/MAP_New_Mapping.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
