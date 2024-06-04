@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.11" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="LwsfI2OE0uKPMpzhEQTtGA==" exportKeySalt="9ca9e35f-affd-4799-87ac-da5f2ac4d4f3" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="Z8LJY2P5MpdaEyzgy1nX6A==" exportKeySalt="e670b74d-b456-4d0f-b2f3-991ce4dfe08d" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpTechno">
 		<Field name="CatalogTerm" type="java.lang.String">null</Field>
 	<Field name="ColAliasWord" type="java.lang.String"><![CDATA[AS]]></Field>
@@ -36,7 +36,7 @@
 	<Field name="GetSeqRequest" type="java.lang.String"><![CDATA[select %SCHEMA.%OBJECT.nextval from dual]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[e9120718-5b1e-3e9c-b3b9-28317b288494]]></Field>
 	<Field name="IndCatalog" type="java.lang.String"><![CDATA[0]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndChange" type="java.lang.String">null</Field>
 	<Field name="IndDserver" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndFileParam" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndJoinCapMixed" type="java.lang.String"><![CDATA[0]]></Field>
@@ -27592,6 +27592,14 @@ respect to a given sorting specification.]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[f8cad33c-7499-46f9-81af-29e3743d7a1f]]></Field>
 	<Field name="Version" type="java.lang.String"><![CDATA[3ae505635211c831325dca8e71e5894b3e2fc95d]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Physical Architecture/ETL_TEAM_SCHEMA/CONN_ETL_TEAM_SCHEMA.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpLschema]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[etl_team_logical_schema]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[f841a5f2-c6d4-4f92-9420-10fadf11f4ed]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[fe9cc36050c78a09471c2eb650ce48abb62fc0e5]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Logical Architecture/LSC_etl_team_logical_schema.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
 		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_MTXT.172]]></Field>
